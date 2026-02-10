@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jun 👋
 
-<!--
-**vkdlxj008/vkdlxj008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a statistics student interested in data science, analytics, and machine learning.  
+I enjoy working with Python, R, and Linux-based tools, and I'm currently building projects to strengthen my technical skills.
 
-Here are some ideas to get you started:
+## Interests
+- Data Science & Analytics
+- Machine Learning
+- Reproducible Research
+- Version Control with Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Improving Git/GitHub workflows
+- Practicing Linux and command-line tools
+- Developing data analysis projects
+
+Thanks for stopping by!
